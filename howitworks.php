@@ -1,4 +1,4 @@
-<?php include 'inc/navbar.php' ?>
+ <?php include 'inc/navbar.php' ?>
 <!-- BANNER -->
 <div class="section banner-page">
    <div class="container">
